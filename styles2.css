@@ -1,0 +1,146 @@
+body
+{
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    
+    
+}
+
+a
+{
+    text-decoration: none;
+    color: rgb(73, 71, 71)
+}
+
+nav a img{
+    height: 1.5em;
+}
+
+#navbar{
+    display: flex;
+    justify-content: flex-end;
+    word-spacing: 10px;
+    font-size: 13px;
+    min-width: 165px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 6px;
+    
+    
+    
+  
+    
+}
+
+#logo
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    
+   
+}
+
+#Searchbar
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+
+
+}
+
+#Rechercher
+{
+    border-radius: 30px;
+    width: 30%;
+    height: 45px;
+    border-style: solid;
+    border-color: rgb(177, 172, 172);
+    border-width: 0.8px;
+    
+}
+
+.bouttons:hover
+{
+  cursor: pointer;
+  
+
+}
+
+
+ #button
+ {
+     display: flex;
+     justify-content: center;
+     padding-top: 10px;
+     
+
+ }
+
+#rechercheg
+{
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 5px; 
+    width: 8%;
+    margin: 12px;
+    height: 40px;
+    color: rgb(94, 91, 91);
+    font-size: 15px;
+}
+
+
+#chance
+{
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 5px; 
+    width: 8%;
+    height: 40px;
+    margin: 12px;
+    color: rgb(94, 91, 91);
+    font-size: 15px;
+   
+}
+
+ #eng
+ {
+     display: flex;
+     justify-content: center;
+ }
+
+ footer
+ {
+    background: #f2f2f2;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    word-spacing: 3px;
+   
+    
+ }
+
+#footerbottom
+{
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    font-size: 14px;
+}
+
+#footerbottom a 
+{
+    padding-left: 15px;
+    padding-right: 20px;
+}
+
+
+
+
+
+
+
+
